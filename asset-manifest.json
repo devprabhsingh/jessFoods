@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jessFoods/static/css/main.d5704851.css",
+    "main.js": "/jessFoods/static/js/main.fabde01d.js",
+    "static/media/about.jpeg": "/jessFoods/static/media/about.ffcde16103f18e01f773.jpeg",
+    "index.html": "/jessFoods/index.html",
+    "main.d5704851.css.map": "/jessFoods/static/css/main.d5704851.css.map",
+    "main.fabde01d.js.map": "/jessFoods/static/js/main.fabde01d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5704851.css",
+    "static/js/main.fabde01d.js"
+  ]
+}
